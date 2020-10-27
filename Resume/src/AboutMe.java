@@ -40,8 +40,8 @@ public class AboutMe {
 		Scanner input = new Scanner (System.in);
 		
 		System.out.print("Enter Your Age:");
-	    int age =input.nextInt();
-	    System.out.println("Age " + age ); }
+	        int age =input.nextInt();
+	        System.out.println("Age " + age ); }
 	 
 	public static void printGender() {
 		Scanner input = new Scanner (System.in);
@@ -97,13 +97,13 @@ public class AboutMe {
 		Scanner input = new Scanner (System.in);
 		
 		System.out.print("Enter GPA Semester 1:");
-	    double num1 = input.nextDouble();
-	    System.out.println("Enter GPA Semester 2:");
-	    double num2 = input.nextDouble();
+	        double num1 = input.nextDouble();
+	        System.out.println("Enter GPA Semester 2:");
+	        double num2 = input.nextDouble();
 	    
-	    double sum = num1+num2;
-	    double totalgpa = sum/2;
-	    System.out.println("CGPA for current semester is " + totalgpa); }
+	        double sum = num1+num2;
+	        double totalgpa = sum/2;
+	        System.out.println("CGPA for current semester is " + totalgpa); }
 	
 	public static void printWork1() {
 		Scanner input = new Scanner (System.in);
