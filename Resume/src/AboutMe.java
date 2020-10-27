@@ -86,12 +86,12 @@ public class AboutMe {
 		System.out.println("Cgpa " + cgpa ); }
 	
 	public static void printGrade() {
-    	Scanner input = new Scanner (System.in);
+    	        Scanner input = new Scanner (System.in);
     	
-    	System.out.print("Enter Grade STIA113:");
-        String str = input.next();
-        char grade = str.charAt(0);
-        System.out.println("Grade " + grade); }
+    	        System.out.print("Enter Grade STIA113:");
+                String str = input.next();
+                char grade = str.charAt(0);
+                System.out.println("Grade " + grade); }
 	
 	public static void printGpa() {
 		Scanner input = new Scanner (System.in);
