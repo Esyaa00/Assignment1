@@ -8,7 +8,7 @@ public class AboutMe {
 	printAge();
 	printGender();
 	printMarital();
-    printCitizenship();
+        printCitizenship();
 	printAddress();
 	printHP();
 	printCgpa();
@@ -17,11 +17,11 @@ public class AboutMe {
 	printWork1();
 	printWork2();
 	printLanguage1();
-    printLanguage2();
-    printSkills1();
-    printSkills2();
-    printSkills3();
-    printAwards1();
+        printLanguage2();
+        printSkills1();
+        printSkills2();
+        printSkills3();
+        printAwards1();
 	printAwards2();
 	printAwards3();
 	
